@@ -1,7 +1,7 @@
 # Modified DIZZANZZ BAIL
 
 <p align='center'>
-  <img src="https://ibb.co.com/DSCYM0B" width="172">
+  <img src="https://files.catbox.moe/ywsqgs.jpg" width="172">
 </p>
 
 ---
