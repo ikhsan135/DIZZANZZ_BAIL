@@ -1,15 +1,15 @@
-# Modified DIZZANZZ_BAIL
+# Modified DIZZANZZ BAIL
 
 <p align='center'>
-  <img src="https://files.catbox.moe/l6l557.jpg" width="172">
+  <img src="https://ibb.co.com/DSCYM0B" width="172">
 </p>
 
 ---
 
-## Installation
+## Usage
 ```json
 "dependencies": {
-  "@ikhsan135/dizzanzz-bail": "github:ikhsan135/DIZZANZZ_BAIL"
+  "@whiskeysockets/baileys": "github:ikhsan135/DIZZANZZ_BAIL"
 }
 ```
 
@@ -18,7 +18,7 @@
 const {
   default: makeWASocket,
   // Other Options 
-} = require('@ikhsan135/dizzanzz-bail');
+} = require('@whiskeysockets/baileys');
 ```
 
 ---
@@ -28,7 +28,7 @@ const {
 ```javascript
 const {
   default: makeWASocket
-} = require('@ikhsan135/dizzanzz-bail');
+} = require('@whiskeysockets/baileys');
 
 const client = makeWASocket({
   browser: ['Windows', 'Edge', '20.00.1'],
@@ -41,7 +41,7 @@ const client = makeWASocket({
 const {
   default: makeWASocket,
   fetchLatestWAWebVersion
-} = require('@ikhsan135/dizzanzz-bail');
+} = require('@whiskeysockets/baileys');
 
 const client = makeWASocket({
   browser: ['Windows', 'Edge', '20.00.1'],
@@ -128,4 +128,4 @@ Follow **@Ikhsanproject** kalau mau liat tipe message yang lain :v
 ---
 
 **Repository**: [https://github.com/ikhsan135/DIZZANZZ_BAIL](https://github.com/ikhsan135/DIZZANZZ_BAIL)  
-**Created by**: @Ikhsanproject
+**Modified by**: @Ikhsanproject
